@@ -1,11 +1,14 @@
 #home {
   background-color: #D23333;
   color: white;
-  height: 100vh;
+  height: auto;
   display: flex;
   align-items: center;
   justify-content: space-around;
   text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+
   p {
     margin-top: 1.5em;
   }
